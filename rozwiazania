@@ -1,0 +1,24 @@
+#Zadanie 1
+Let to zmienna, którą możesz zmienić, a const t ostała, której zmienićnie możesz.
+
+#Zadanie 2
+1. Number Pzrykład: 2
+2. String Pzrykład: 'Coś'
+3. Boolean Pzrykład: true
+4. undenefined Pzrykład: x
+5. null Pzrykład:    
+
+#Zadanie 3
+Sposób 1: imie + ' ' + nazwisko ;
+Sposób 2: 'Mam $(wiek) lat';
+
+#Zadanie 4
+++x zwiększa partość przed użyciem a x++ po użyciu
+
+#Zadanie 5
+a) 15
+b) 6
+c) 21
+
+#Zadanie 6
+Witaj, Jan! Masz 18 lat.
